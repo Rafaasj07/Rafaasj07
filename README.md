@@ -25,7 +25,6 @@ Atualmente, estou cursando Sistemas de Informação na UFG e aprimorando minha b
 
 ---
 
-
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -42,7 +41,6 @@ Atualmente, estou cursando Sistemas de Informação na UFG e aprimorando minha b
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/><br/>
-
 
 ### 📊 Estatísticas
 
@@ -61,6 +59,8 @@ Atualmente, estou cursando Sistemas de Informação na UFG e aprimorando minha b
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaasj07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+
+<br/><br/><br/><br/><br/><br/>
 
 ### 📬 Contato
 
