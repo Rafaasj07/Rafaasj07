@@ -61,3 +61,8 @@ Atualmente, estou cursando Sistemas de Informação na UFG e aprimorando minha b
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaasj07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+
+### 📬 Contato
+
+[📲 Fale comigo no WhatsApp](https://wa.me/5562985191711?text=Olá%2C%20vim%20pelo%20GitHub!)  
+📧 augustorafael@discente.ufg.br
