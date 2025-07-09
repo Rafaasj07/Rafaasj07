@@ -61,8 +61,10 @@ Atualmente, estou cursando Sistemas de Informação na UFG e aprimorando minha b
 </p>
 
 <br/><br/><br/><br/><br/><br/>
+<br clear="left"/>
 
 ### 📬 Contato
 
 [📲 Fale comigo no WhatsApp](https://wa.me/5562985191711?text=Olá%2C%20vim%20pelo%20GitHub!)  
 📧 augustorafael@discente.ufg.br
+
