@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Rafael Augusto
 
-**`Desenvolvedor`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é Rafael Augusto. Durante o ensino médio, cursei Informática para Internet no Instituto Federal Goiano – Campus Trindade, onde aprendi o básico de programação e adquiri conhecimentos em Java, JavaScript, HTML, CSS, SQL, React, Node e Next.js, o suficiente para entender lógica de programação, desenvolver sites simples e trabalhar com bancos de dados.
 
