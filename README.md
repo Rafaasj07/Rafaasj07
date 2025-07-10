@@ -4,7 +4,7 @@
 
 Meu nome é Rafael Augusto. Durante o ensino médio, cursei Informática para Internet no Instituto Federal Goiano – Campus Trindade, onde aprendi o básico de programação e adquiri conhecimentos em Java, JavaScript, HTML, CSS, SQL, React, Node e Next.js, o suficiente para entender lógica de programação, desenvolver sites simples e trabalhar com bancos de dados.
 
-Atualmente, estou cursando Sistemas de Informação na UFG e aprimorando minha base com a linguagem C. Também participo de uma residência em TIC pela empresa **Brisa**, onde estou desenvolvendo minhas habilidades em um projeto real da empresa **Go Ledger**.
+Atualmente, estou cursando Sistemas de Informação na UFG onde aprimorei minha base com a linguagem C. Também participo de uma residência em TIC pela empresa **Brisa**, onde estou desenvolvendo minhas habilidades em um projeto real da empresa **Go Ledger**.
 
 ---
 
