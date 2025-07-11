@@ -33,13 +33,13 @@ Atualmente, estou cursando Sistemas de Informação na UFG onde aprimorei minha 
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Rafaasj07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Rafaasj07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cacheSeconds=1800"
   />
   <img
     align="left"
     alt="Top Langs"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaasj07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaasj07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cacheSeconds=1800"
   />
 </p>
 
