@@ -2,9 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Rafael Augusto. Durante o ensino médio, cursei Informática para Internet no Instituto Federal Goiano – Campus Trindade, onde aprendi o básico de programação e adquiri conhecimentos em Java, JavaScript, HTML, CSS, SQL, React, Node e Next.js, o suficiente para entender lógica de programação, desenvolver sites simples e trabalhar com bancos de dados.
+Meu nome é Rafael Augusto. Concluí o curso Técnico em Informática para Internet no Instituto Federal Goiano – Campus Trindade, onde tive meu primeiro contato com programação e adquiri conhecimentos em Java, JavaScript, HTML, CSS, SQL, React e Node.js, o que me permitiu desenvolver sites simples, compreender lógica de programação e trabalhar com bancos de dados.
 
-Atualmente, estou cursando Sistemas de Informação na UFG onde aprimorei minha base com a linguagem C. Também participo de uma residência em TIC pela empresa **Brisa**, onde estou desenvolvendo minhas habilidades em um projeto real da empresa **Go Ledger**.
+Atualmente curso Bacharelado em Sistemas de Informação na UFG, onde consolidei minha base em lógica de programação com C e aprofundei meus estudos em desenvolvimento web. Além disso, participo da Residência em **TIC (Brisa/UFG)**, atuando em um projeto real para a empresa **Go Ledger**, o que tem me proporcionado experiência prática com tecnologias modernas e aplicação de soluções em um ambiente profissional.
 
 ---
 
