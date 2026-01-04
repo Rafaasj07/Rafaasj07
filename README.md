@@ -51,7 +51,6 @@ Busco oportunidades em **desenvolvimento web Full Stack**.
 ---
 
 ## 📊 Estatísticas
-
 <div align="center">
 
 <img
