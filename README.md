@@ -54,23 +54,24 @@ Busco oportunidades em **desenvolvimento web Full Stack**.
 
 <div align="center">
 
-<!-- GitHub Stats -->
+## 📊 Estatísticas
+
+<div align="center">
+
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Rafaasj07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
+  src="https://github-readme-stats-fast.vercel.app/api?username=Rafaasj07&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
-<!-- Top Languages -->
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaasj07&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rafaasj07&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
 />
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
 <img
   height="180"
   src="https://streak-stats.demolab.com?user=Rafaasj07&theme=tokyonight&hide_border=true"
