@@ -54,10 +54,6 @@ Busco oportunidades em **desenvolvimento web Full Stack**.
 
 <div align="center">
 
-## 📊 Estatísticas
-
-<div align="center">
-
 <img
   height="180"
   src="https://github-readme-stats-fast.vercel.app/api?username=Rafaasj07&show_icons=true&theme=tokyonight&hide_border=true"
