@@ -1,14 +1,18 @@
 # 👨🏻‍💻 Rafael Augusto
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
-Meu nome é Rafael Augusto. Concluí o curso Técnico em Informática para Internet no Instituto Federal Goiano – Campus Trindade, onde tive meu primeiro contato com programação e adquiri conhecimentos em Java, JavaScript, HTML, CSS, SQL, React e Node.js, o que me permitiu desenvolver sites simples, compreender lógica de programação e trabalhar com bancos de dados.
+Desenvolvedor Full Stack e estudante de **Sistemas de Informação na UFG**. Formado no **Técnico em Informática para Internet pelo IF Goiano**, com experiência em **desenvolvimento web**, **Frontend com React** e **aplicação de Inteligência Artificial**.
 
-Atualmente curso Bacharelado em Sistemas de Informação na UFG, onde consolidei minha base em lógica de programação com C e aprofundei meus estudos em desenvolvimento web. Além disso, participo da Residência em **TIC (Brisa/UFG)**, atuando em um projeto real para a empresa **Go Ledger**, o que tem me proporcionado experiência prática com tecnologias modernas e aplicação de soluções em um ambiente profissional.
+Participei da **Residência em TIC (Brisa/UFG)** atuando em projetos reais com **IA Generativa**. Atualmente, atuo como **Desenvolvedor Frontend** no projeto **APlus Platform (UFG)**, desenvolvendo interfaces modernas e responsivas.
+
+Trabalho com **JavaScript, TypeScript, React, Next.js, Node.js, SQL e MongoDB**, além de **Docker, cloud storage** e integração com serviços de **IA**.
+
+Busco oportunidades em **desenvolvimento web Full Stack**.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -24,7 +28,9 @@ Atualmente curso Bacharelado em Sistemas de Informação na UFG, onde consolidei
 
 <br/><br/>
 
-### 📊 Estatísticas
+---
+
+## 📊 Estatísticas
 
 <p>
   <img
@@ -42,11 +48,13 @@ Atualmente curso Bacharelado em Sistemas de Informação na UFG, onde consolidei
   />
 </p>
 
-<br/><br/><br/><br/><br/><br/>
-<br clear="left"/>
+<br/><br/><br/><br/><br/><br/> <br clear="left"/>
 
-### 📬 Contato
+---
 
-[📲 Fale comigo no WhatsApp](https://wa.me/5562985191711?text=Olá%2C%20vim%20pelo%20GitHub!)  
-📧 augustorafael@discente.ufg.br
+## 📬 Contato
 
+📲 [Fale comigo no WhatsApp](https://wa.me/5562985191711?text=Olá%2C%20vim%20pelo%20GitHub!)
+📧 **[augustorafael@discente.ufg.br](mailto:augustorafael@discente.ufg.br)**
+
+---
