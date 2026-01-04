@@ -51,29 +51,20 @@ Busco oportunidades em **desenvolvimento web Full Stack**.
 ---
 
 ## 📊 Estatísticas
-<div align="center">
-
+<div align="left">
 <img
   height="180"
   src="https://github-readme-stats-fast.vercel.app/api?username=Rafaasj07&show_icons=true&theme=tokyonight&hide_border=true"
 />
-
 <img
   height="180"
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rafaasj07&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
 />
-
-</div>
-
-<div align="center">
-
 <img
   height="180"
   src="https://streak-stats.demolab.com?user=Rafaasj07&theme=tokyonight&hide_border=true"
 />
-
 </div>
-
 ---
 
 ## 📬 Contato
