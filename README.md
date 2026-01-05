@@ -71,10 +71,6 @@ Busco oportunidades em <strong>desenvolvimento web Full Stack</strong>.
     height="180"
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rafaasj07&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
   />
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=Rafaasj07&theme=tokyonight&hide_border=true"
-  />
 </div>
 
 ---
