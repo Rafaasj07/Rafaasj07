@@ -26,8 +26,9 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelaugustodev&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelaugustodev&theme=tokyonight"
     width="420"
+    alt="Linguagens mais usadas"
   />
 </p>
 
