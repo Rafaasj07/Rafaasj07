@@ -8,16 +8,12 @@
   Desenvolvedor Full Stack na <strong>Magistrar Educacional</strong>, construindo software, APIs, aplicações web, soluções em cloud e produtos com Inteligência Artificial.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaelaugustodev&style=flat-square&color=58A6FF&label=Profile+views" alt="profile views"/>
-</p>
-
 <br/>
 
 <h2 align="center">🚀 Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,react,next,nodejs,nestjs,graphql,postgres,mongodb,docker,aws,git&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,java,react,next,nodejs,nestjs,graphql,postgres,mongodb,docker,aws,git&theme=dark" alt="Tecnologias" />
 </p>
 
 <br/>
@@ -38,12 +34,6 @@
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/?username=rafaelaugustodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="180em"
     src="https://streak-stats.demolab.com/?user=rafaelaugustodev&theme=tokyonight"
     alt="Sequência de contribuições"
   />
