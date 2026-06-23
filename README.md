@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  Atualmente trabalhando como Desenvolvedor Full Stack na Magistrar Educacional.
+  Desenvolvedor Full Stack na <strong>Magistrar Educacional</strong>, construindo software, APIs, aplicações web, soluções em cloud e produtos com Inteligência Artificial.
 </p>
 
 <p align="center">
-  Desenvolvimento de software, APIs, aplicações web, cloud e soluções com Inteligência Artificial.
+  <img src="https://komarev.com/ghpvc/?username=rafaelaugustodev&style=flat-square&color=58A6FF&label=Profile+views" alt="profile views"/>
 </p>
 
 <br/>
@@ -17,7 +17,7 @@
 <h2 align="center">🚀 Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,react,next,nodejs,nestjs,graphql,postgres,mongodb,docker,aws,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,react,next,nodejs,nestjs,graphql,postgres,mongodb,docker,aws,git&theme=dark" alt="Tecnologias" />
 </p>
 
 <br/>
@@ -25,10 +25,27 @@
 <h2 align="center">📊 Linguagens mais usadas</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaugustodev&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages&langs_count=6"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaugustodev&layout=compact&theme=tokyonight&langs_count=8"
     width="420"
     alt="Linguagens mais usadas"
+  />
+</p>
+
+<br/>
+
+<h2 align="center">📈 GitHub</h2>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/?username=rafaelaugustodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com/?user=rafaelaugustodev&theme=tokyonight"
+    alt="Sequência de contribuições"
   />
 </p>
 
@@ -38,10 +55,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rafaelasjdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="mailto:rafael.s.januario@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
