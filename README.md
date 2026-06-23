@@ -26,7 +26,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelaugustodev&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaugustodev&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages&langs_count=6"
     width="420"
     alt="Linguagens mais usadas"
   />
